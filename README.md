@@ -1,0 +1,3 @@
+# почему так много физики...
+- [лекции(если я вдруг начну их записывать)](https://miro.com/app/board/uXjVLilOLEg=/?share_link_id=842053985508)
+- [практика](https://miro.com/app/board/uXjVLiiWkdE=/?share_link_id=950630023559)
